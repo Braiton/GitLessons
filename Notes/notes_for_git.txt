@@ -1,0 +1,27 @@
+-----------------------------
+Configuring git:
+git config --global user.name <"name">
+git config --global user.email <"email address">
+git config --list -to see configuration
+git config --global core.editor <"editor name"> - what editor to use
+
+
+
+
+-----------------------------
+git log - gets log of commit
+git add - adds to stage before commitment (staging invironment)
+git commit -m "message here" - commit project with message
+git checkout about.html - restores files from staging
+git rm <file name> - delete file fast
+git --all - add and commit in one step
+git branch <branch name> - creating branch
+git branch -m <old name> <new name> - renaming branch
+git branch -D <branch name> - deleting branch
+git clone <url of github>.git
+git remote add origin remote repository URL - adding repositary
+git push origin master -  updates repository
+git branch -a - shows branches in the github account
+git checkout -b <branch name> origin/<branch name> - pulling branch from github(individiual)
+git 
+ 
