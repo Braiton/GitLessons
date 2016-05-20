@@ -24,5 +24,6 @@ git remote add origin remote repository URL - adding repositary
 git push origin master -  updates repository
 git branch -a - shows branches in the github account
 git checkout -b <branch name> origin/<branch name> - pulling branch from github(individiual)
-git 
+git diff - what is different (working directering. compares working and staging)
+git diff --staged (check staging and compares to repositary
  
