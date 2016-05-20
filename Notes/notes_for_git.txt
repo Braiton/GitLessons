@@ -26,5 +26,5 @@ git branch -a - shows branches in the github account
 git checkout -b <branch name> origin/<branch name> - pulling branch from github(individiual)
 git diff - what is different (working directering. compares working and staging)
 git diff --staged (check staging and compares to repositary
-
+git-mv <file name> <rename file name>- Move or rename a file, a directory, or a symlink
  
