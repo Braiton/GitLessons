@@ -9,6 +9,7 @@ git config --global core.editor <"editor name"> - what editor to use
 
 
 -----------------------------
+
 git status - get status
 git log - gets log of commit
 git add - adds to stage before commitment (staging invironment)
