@@ -37,7 +37,7 @@ git stash pop -- get last item from stash and remove from stash
 git stash pop <stash name> -- get specific item from stash and remove from stash
 git stash apply -- get item from stash and keep it in stash
 git stash drop<stash name. - to delete item from stash
-
+git stash clear - delete every single stash
 <<<<<<< Updated upstream
 git stash list - get list off stash items
 =======
