@@ -38,8 +38,7 @@ git stash pop <stash name> -- get specific item from stash and remove from stash
 git stash apply -- get item from stash and keep it in stash
 git stash drop<stash name. - to delete item from stash
 git stash clear - delete every single stash
-<<<<<<< Updated upstream
-git stash list - get list off stash items
-=======
->>>>>>> Stashed changes
+git clone <address from github> <name of branch>- clone the project
+git push -u <address of repositary> - push to repositary and track
+
  
