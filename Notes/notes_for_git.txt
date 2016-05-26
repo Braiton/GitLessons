@@ -15,6 +15,7 @@ git status - get status
 git log - gets log of commit
 git add - adds to stage before commitment (staging invironment)
 git commit -m "message here" - commit project with message
+git commit -am "message here" - commit project with message adding to stage same time
 git checkout about.html - restores files from staging
 git rm <file name> - delete file fast
 git --all - add and commit in one step
