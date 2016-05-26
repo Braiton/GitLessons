@@ -9,7 +9,7 @@ git config --global core.editor <"editor name"> - what editor to use
 
 
 -----------------------------
-
+git branch <branch name> - create branch
 git status - get status
 git log - gets log of commit
 git add - adds to stage before commitment (staging invironment)
@@ -28,4 +28,5 @@ git checkout -b <branch name> origin/<branch name> - pulling branch from github(
 git diff - what is different (working directering. compares working and staging)
 git diff --staged (check staging and compares to repositary
 git-mv <file name> <rename file name>- Move or rename a file, a directory, or a symlink
+git merge <branch name> - merging
  
