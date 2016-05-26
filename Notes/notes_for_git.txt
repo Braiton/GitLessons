@@ -33,6 +33,11 @@ git-mv <file name> <rename file name>- Move or rename a file, a directory, or a 
 git merge <branch name> - merging
 git merge --abourt - abourting merge if conflict
 git stash save "messege here"- save change before going to other branch
+git stash pop -- get last item from stash and remove from stash
+git stash pop <stash name> -- get specific item from stash and remove from stash
+git stash apply -- get item from stash and keep it in stash
+git stash drop<stash name. - to delete item from stash
+
 <<<<<<< Updated upstream
 git stash list - get list off stash items
 =======
