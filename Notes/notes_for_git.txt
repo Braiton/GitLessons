@@ -9,6 +9,7 @@ git config --global core.editor <"editor name"> - what editor to use
 
 
 -----------------------------
+git branch -d <branch Name>
 git branch <branch name> - create branch
 git status - get status
 git log - gets log of commit
