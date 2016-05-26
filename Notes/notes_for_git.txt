@@ -31,4 +31,7 @@ git diff - what is different (working directering. compares working and staging)
 git diff --staged (check staging and compares to repositary
 git-mv <file name> <rename file name>- Move or rename a file, a directory, or a symlink
 git merge <branch name> - merging
+git merge --abourt - abourting merge if conflict
+git stash save "messege here"- save change before going to other branch
+git stash list - get list off stash items
  
